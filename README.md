@@ -130,4 +130,4 @@ To further explore Spark Tuning, below are some highly recommended articles and 
 1. Start by reading through the **Spark Core Concepts** and architecture sections to build a strong foundational understanding of Spark's working mechanisms.
 2. Move on to understanding **Distributed Processing** and how Spark runs jobs on clusters.
 3. Focus on **Spark Tuning** to master performance optimization, starting with memory management and then exploring task parallelism, shuffling, and caching strategies.
-4. Finally, explore **Adaptive Query Execution (
+4. Finally, explore **Adaptive Query Execution 
